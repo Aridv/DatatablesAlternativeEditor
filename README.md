@@ -1,2 +1,2 @@
 # DatatablesAlternativeEditor
-Alternative editor for Datatables, it has two versions: simple and complex
+Please, refer to develop branch for working code.
